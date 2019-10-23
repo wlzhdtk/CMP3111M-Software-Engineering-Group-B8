@@ -8,13 +8,13 @@ Spotify API: d0411a336d6046edb52110b9bbc4dd40
 ## Sprint 1 Basic Requirements
 Extract terms from news source. Use those terms to get recommended tracks from Spotify (track of the day, alternative (i.e. opposite to terms gathered), etc.)
 
-Get the mood of the country (national news) and suggest tracks on it.
+MUST Get the mood of the country (national news) and suggest tracks on it.
 
-Songs to contrast the mood (sad news -> happy songs)
+MUST Songs to contrast the mood (sad news -> happy songs)
 
-15 second preview of songs
+MUST 15 second preview of songs
 
-Not necessarily desktop, just make a demonstrable artefact
+MAY NOT be necessarily desktop, just make a demonstrable artefact
 
-User login to Spotify
+MAY require User login to Spotify if necessary for operation
 
